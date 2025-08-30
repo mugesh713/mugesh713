@@ -7,8 +7,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mugesh713&row=1&column=6&margin-w=15&margin-h=15&no-bg=true&title_color=000000&text_color=000000" alt="mugesh713" />
+  <img src="https://raw.githubusercontent.com/mugesh713/mugesh713/main/banner.gif" alt="Animated Banner" width="1000"/>
 </p>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mugesh713&label=Profile%20views&color=000000&style=flat" alt="mugesh713" />
