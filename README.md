@@ -34,7 +34,6 @@ const mugesh = {
             css: ["Bootstrap", "Tailwind", "Material-UI"]
         },
         backEnd: {
-            java: ["Spring Boot"],
             js: ["Node.js", "Express"],
             python: ["Django"]
         },
