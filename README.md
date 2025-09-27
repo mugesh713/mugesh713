@@ -181,9 +181,7 @@ const mugesh = {
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mugesh713/mugesh713/output/snake.svg" alt="Snake animation" />
-</div>
+
 
 <div align="center">
   <b>⭐ From [mugesh713](https://github.com/mugesh713) with ❤️</b>
