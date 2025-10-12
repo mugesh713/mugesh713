@@ -1,4 +1,4 @@
-# 👋 Welcome to My Digital Universe!Building @BookMyCode
+# 🚀 Welcome to My Digital Universe — Crafting the Future @BookMyCode
 
 <div align="center">
   <img src="https://github.com/mugesh713/mugesh713/blob/main/banner.gif" alt="Animated Banner" style="width: 100%; max-width: 1200px; height: auto; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
